@@ -1,0 +1,6 @@
+{
+  "name": "Lawn Mower Shop - Los Angeles",
+  "description": "Professional lawn mower sales, repair, and parts on Cloverdale Ave, Los Angeles. Quality equipment and local expert service.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
